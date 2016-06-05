@@ -1,3 +1,12 @@
+
+.cell {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color:red;
+  margin: 1px;
+}
+/* 
 html {
   font-size: 10px; 
   font-family: 'Open Sans', sans-serif;
@@ -23,7 +32,7 @@ li:hover {
   line-height: 2;
   letter-spacing: 1px;
 }
-/*  
+ 
 p,li {
   color: red;
   width: 800px;
@@ -32,7 +41,7 @@ p:hover {
 	color: blue;
 
 }
-*/
+
 html {
   background-color: #00539F;
 }
@@ -47,3 +56,4 @@ img {
   display: block;
   margin: 0 auto;
 }
+*/
