@@ -11,7 +11,8 @@ $(document).ready(function() {
 		};
 		var $c = $('.cell');
 		$c.hover(function() {
-			$(this).css("background-color","yellow");
+		//	$(this).css("background-color","yellow");
+			$(this).css("opacity","+=0.05");
 		});
 	});
 	//clear Button - removes the container dive that we've used and adds a clean one 

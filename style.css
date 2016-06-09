@@ -1,7 +1,6 @@
 
 .row {
   display: table-row;
-  background-color:green;
   margin: none;
   border: none;
   padding: none;
@@ -10,7 +9,8 @@
   display: table-cell;
   width: 5px;
   height: 5px;
-  background-color:gray;
+  background-color:black;
+  opacity: 0.05;
 }
 
 /* 
